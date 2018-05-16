@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="action_settings">Settings</string>
+    <string name="content_description">background</string>
+    <string name="team_a">Fingers Clippers</string>
+    <string name="team_b">Golden Nuggets</string>
+    <string name="initial_Score">0</string>
+    <string name="two_points">+ 2 Points</string>
+    <string name="three_points">+ 3 Points</string>
+    <string name="free_throw">Free Throw</string>
+    <string name="reset">Reset</string>
+    <string name="timer">Timer</string>
+    <string name="resetTimer">Reset Timer</string>
+    <string name="zero">00:00</string>
+    <string name="start">Start</string>
+</resources>
